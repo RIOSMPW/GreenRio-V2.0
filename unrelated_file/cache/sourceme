@@ -1,0 +1,2 @@
+export PROJ_ROOT=/work/stu/wangmingzi/cache/hehecore/src/cache
+export L1D_ROOT=./l1dcache

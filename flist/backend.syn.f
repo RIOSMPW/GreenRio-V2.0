@@ -1,0 +1,15 @@
+$PROJ_ROOT/params.vh
+$PROJ_ROOT/units/fifo.v
+$PROJ_ROOT/units/physical_regfile.v
+$PROJ_ROOT/units/counter.v
+$PROJ_ROOT/units/rcu.v
+$PROJ_ROOT/units/alu.v
+$PROJ_ROOT/units/cmp.v
+$PROJ_ROOT/lsu/ac.v
+$PROJ_ROOT/lsu/agu.v
+$PROJ_ROOT/lsu/cu.v
+$PROJ_ROOT/lsu/lsq.v
+$PROJ_ROOT/lsu/lsu.v
+$PROJ_ROOT/lsu/nblsu.v
+$PROJ_ROOT/units/fu.v
+$PROJ_ROOT/pipeline/backend.v

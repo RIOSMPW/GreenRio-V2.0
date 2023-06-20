@@ -1,0 +1,11 @@
+[*.{v,sv}]
+indent_size = 4
+indent_style = space
+
+[*.{c,h,cc,cpp,hh}]
+indent_size = 4
+indent_style = space
+
+[{Makefile,*.mk}]
+indent_size = 4
+indent_style = tab

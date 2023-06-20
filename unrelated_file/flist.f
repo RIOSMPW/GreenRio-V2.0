@@ -1,0 +1,13 @@
+./src/core.v
+./src/pipeline/decode.v
+./src/pipeline/execute.v
+./src/pipeline/fetch.v
+./src/pipeline/memory.v
+./src/pipeline/pipeline.v
+./src/pipeline/writeback.v
+./src/units/alu.v
+./src/units/busio.v
+./src/units/cmp.v
+./src/units/csr.v
+./src/units/hazard.v
+./src/units/regfile.v

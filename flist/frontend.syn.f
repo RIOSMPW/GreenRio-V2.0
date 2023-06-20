@@ -1,0 +1,9 @@
+$PROJ_ROOT/params.vh
+$PROJ_ROOT/units/btb.v
+$PROJ_ROOT/units/gshare.v
+$PROJ_ROOT/units/counter.v
+$PROJ_ROOT/units/fifo.v
+$PROJ_ROOT/units/ins_buffer.v
+$PROJ_ROOT/pipeline/fetch.v
+$PROJ_ROOT/pipeline/decode.v
+$PROJ_ROOT/pipeline/frontend.v
