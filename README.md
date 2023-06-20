@@ -1,3 +1,5 @@
+![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/riosmpw/GreenRio2p0/assets/100336131/cc4fd356-a011-4fa0-973d-bb9948d85405)
+
 GREENRIO2.0 (HEHECORE2.0)
 =========================
 
@@ -39,19 +41,7 @@ Design Feature List
 
 -   cache coherence
 
-gantt chart
------------
 
-gantt.jpg
-
-gantt.jpg
-
-work division
--------------
-
-work.jpg
-
-work.jpg
 
 overall review
 --------------
@@ -112,10 +102,8 @@ Block Diagram
 
 Pipeline Stages(to do)
 ----------------------
+![f0e13de36b6b05833113ab3527876620_hehecore2 0](https://github.com/riosmpw/GreenRio2p0/assets/100336131/f47a75c7-3bf8-41b5-bc50-a12eb56d9083)
 
-architecture.png
-
-architecture.png
 
 **1. Fetch**
 
@@ -319,3 +307,24 @@ C model
 -   ipc: 0.8 \~ 1.2 (through 1003 torture)
 
 -   use original model with our achitecture parameter
+
+
+
+## About RIOS Lab
+
+![image](https://github.com/riosmpw/OpenRPDK28/assets/109063674/6aae13c6-50a5-40c3-9a4e-ed4c79d41c20)
+
+
+**Ecosystem Wants to be Free**
+
+By David A. Patterson · Director of RIOS Lab
+
+**RISC-V International Open Source Laboratory** (RIOS Lab) is a Shenzhen-based research facility focused on computer system architecture, supported by the Tsinghua-Berkeley Shenzhen Research Institute. As an Open Source and Nobel Prize Laboratory, RIOS Lab promotes open-source innovation and collaboration. Our philosophy is that the computer architecture ecosystem should be free for all to access and build upon.
+
+In November 2019, RIOS Lab was officially unveiled. Under the leadership of 2017 A.M. Turing Award winner Prof. David A. Patterson and operational support from TBSI,  RIOS Lab will conduct cutting-edge research in RISC-V hardware and software technology. Patterson first proposed the Reduced Instruction Set Computer (RISC), an open and free instruction set architecture enabling a new era of processor innovation through open standard collaboration. Released in 2010, the latest Fifth Generation RISC has gained worldwide attention.
+
+The name for the lab RIOS is also inspired by the Spanish word for “rivers.” It symbolizes the flow of information from many sources, coming together to create a whole that is greater than the sum of its parts.
+
+
+
+
