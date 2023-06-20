@@ -1,6 +1,6 @@
 ![d944c41020e1aa6319c815a2241af5bd_245348954-9f3d5cb0-e9f8-48c8-b4e6-38c896d54da8](https://github.com/riosmpw/GreenRio2p0/assets/100336131/cc4fd356-a011-4fa0-973d-bb9948d85405)
 
-GREENRIO2.0 (HEHECORE2.0)
+GREENRIO V2.0
 =========================
 
 ### Submodules.
