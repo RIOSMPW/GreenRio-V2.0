@@ -15,6 +15,9 @@ This is out-of-order RISC-V core written in synthesizable Verilog that supports
 the RV64ICMA unprivileged ISA and parts of the privileged ISA, support S, M and
 U mode.
 
+![greenrio](https://github.com/riosmpw/GreenRio-V2.0/assets/100336131/c1d343e9-55a0-408d-9be3-45209a924abc)
+
+
 Design Feature List
 -------------------
 
